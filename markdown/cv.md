@@ -35,34 +35,29 @@ rangel.final@gmail.com :small_blue_diamond: <https://www.linkedin.com/in/rngl/> 
 
 **Boomerang** :small_blue_diamond: Everyday Products Renting Marketplace  
 Head Developer :small_blue_diamond: May/2020 - Sep/2021  
-(*Node.js, Typescript, Kubernetes, GCP* :black_medium_square: *Nest.js, Mikro-orm, Helm, Redis, Postgresql*)
+(*Node.js, React, Typescript, Kubernetes, GCP* • *Nest.js, Mikro-orm, React-Admin, Helm, Postgresql*)
 
 - Full stack tech team management
-- *Node.js/Typescript* back end development
 - Infra with *K8s/GCP*
 
 **Bitcapital** :small_blue_diamond: Open Crypto Banking as a Service  
 Co-Founder :small_blue_diamond: Oct/2018 - May/2020  
-(*Node.js, Typescript, Kubernetes, GCP* :black_medium_square: *TypeORM, Helm, Postgresql, Micro-services, Blockchain*)
+(*Node.js, Typescript, Kubernetes, GCP* • *TypeORM, Helm, Postgresql, Micro-services, Blockchain*)
 
 - MVP/V0 Lead Developer
 - V1 Lead Architect
-- *Node.js/Typescript* back end development
-- Infra with *K8s/GCP* until Infra hired
+- Infra with *K8s/GCP* until first infra hired
   
 **Nxtep** :small_blue_diamond: IT Consultant :small_blue_diamond: Mar/18 - Oct/18  
-(*Node.js, Typescript, Kubernetes, GCP* :black_medium_square: *TypeORM, Helm, Postgresql, Micro-services, Blockchain*)
 
 - Agrotech (*AngularJS, React, PHP, MySQL*)
 - Webdesk (*React*)
 - Bitcapital (*Node.js*)
   
 **Devnup** :small_blue_diamond: IT Consultant :small_blue_diamond: Oct/17 - Mar/18  
-(*Node.js, Typescript, Kubernetes, GCP* :black_medium_square: *TypeORM, Helm, Postgresql, Micro-services, Blockchain*)
 
 - IES Football (*AngularJS, React, Node.js, Mongo*)
 - ByMe (*AngularJS, React Native, Node.js, Mongo*)
-- Bitcapital (*Node.js*)
 
 ## SKILLS
 
